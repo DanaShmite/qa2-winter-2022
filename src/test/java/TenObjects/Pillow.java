@@ -1,11 +1,11 @@
-package HomeWorkFirst;
+package TenObjects;
 
-public class Sofa {
+public class Pillow {
     // ---------------ATTRIBUTES-------------
     private double weight;
     private double height;
     private String material;
     private String color;
-    private String numberOfSeats;
-    private String retractableSofa;
-}
+    private String applicableSeason;
+    private String washingMethod;
+    }

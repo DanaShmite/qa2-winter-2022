@@ -1,6 +1,5 @@
-package HomeWorkFirst;
+package TenObjects;
 
-import com.sun.source.tree.WhileLoopTree;
 import org.junit.jupiter.api.Test;
 
 public class FloorLampPractice {

@@ -1,4 +1,4 @@
-package HomeWorkFirst;
+package TenObjects;
 
 public class FloorLamp {
     // ---------------ATTRIBUTES-------------

@@ -1,4 +1,4 @@
-package HomeWorkFirst;
+package TenObjects;
 
 import org.junit.jupiter.api.Test;
 

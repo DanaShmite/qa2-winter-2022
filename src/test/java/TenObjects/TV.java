@@ -1,8 +1,4 @@
-package HomeWorkFirst;
-
-import jdk.swing.interop.LightweightContentWrapper;
-
-import javax.swing.tree.FixedHeightLayoutCache;
+package TenObjects;
 
 public class TV {
 

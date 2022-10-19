@@ -1,4 +1,4 @@
-package HM2;
+package RoadTrip;
 
 public class Transport {
     //------ATRIBUTES-----

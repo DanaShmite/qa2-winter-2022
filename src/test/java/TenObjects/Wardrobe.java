@@ -1,12 +1,12 @@
-package HomeWorkFirst;
+package TenObjects;
 
-public class Glass {
+public class Wardrobe {
     // ---------------ATTRIBUTES-------------
 
     private double weight;
+    private double width;
     private double height;
-    private double capacity;
-    private String style;
+    private int countOfDoors;
     private String material;
-
+    private String color;
 }
