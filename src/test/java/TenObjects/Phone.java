@@ -1,16 +1,17 @@
 package TenObjects;
 
-public class Wardrobe {
+public class Phone {
+
     // ---------------ATTRIBUTES-------------
 
     private double weight;
-    private double width;
     private double height;
-    private int countOfDoors;
-    private String material;
+    private double thickness;
+    private String brand;
     private String color;
 
-    // --------------G/S-------------
+    //------G/S-----
+
 
     public double getWeight() {
         return weight;
@@ -18,14 +19,6 @@ public class Wardrobe {
 
     public void setWeight(double weight) {
         this.weight = weight;
-    }
-
-    public double getWidth() {
-        return width;
-    }
-
-    public void setWidth(double width) {
-        this.width = width;
     }
 
     public double getHeight() {
@@ -36,20 +29,20 @@ public class Wardrobe {
         this.height = height;
     }
 
-    public int getCountOfDoors() {
-        return countOfDoors;
+    public double getThickness() {
+        return thickness;
     }
 
-    public void setCountOfDoors(int countOfDoors) {
-        this.countOfDoors = countOfDoors;
+    public void setThickness(double thickness) {
+        this.thickness = thickness;
     }
 
-    public String getMaterial() {
-        return material;
+    public String getBrand() {
+        return brand;
     }
 
-    public void setMaterial(String material) {
-        this.material = material;
+    public void setBrand(String brand) {
+        this.brand = brand;
     }
 
     public String getColor() {
