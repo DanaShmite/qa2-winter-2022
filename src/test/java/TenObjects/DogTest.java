@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class DogPractice {
+public class DogTest {
     @Test
     public void workingWithDog(){
         Dog ChaseDog = new Dog();

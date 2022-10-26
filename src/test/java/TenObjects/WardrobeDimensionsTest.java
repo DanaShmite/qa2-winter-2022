@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class WardrobeDimensions {
+public class WardrobeDimensionsTest {
     @Test
     public void workingWithWardrobe(){
         Wardrobe firstWardrobe = new Wardrobe();

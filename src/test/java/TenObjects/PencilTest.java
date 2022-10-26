@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class PencilPractice {
+public class PencilTest {
     @Test
     public void workingWithPencil(){
         Pencil firstPencil = new Pencil();

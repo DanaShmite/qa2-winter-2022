@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class PillowPractice {
+public class PillowTest {
     @Test
     public void workingWithPillow(){
         Pillow firstPillow = new Pillow();

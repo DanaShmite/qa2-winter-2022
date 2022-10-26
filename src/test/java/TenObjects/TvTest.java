@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class TvPractice {
+public class TvTest {
     @Test
     public void workingWithTV(){
         TV firstTV = new TV();

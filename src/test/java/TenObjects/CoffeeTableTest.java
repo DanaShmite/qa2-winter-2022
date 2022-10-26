@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class CoffeeBaseMaterial {
+public class CoffeeTableTest {
     @Test
        public void workingWithCoffeeTable() {
        CoffeeTable firstCoffeeTable = new CoffeeTable();

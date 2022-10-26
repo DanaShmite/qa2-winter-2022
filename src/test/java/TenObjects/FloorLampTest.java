@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class FloorLampPractice {
+public class FloorLampTest {
     @Test
     public void workingWithFloorLamp(){
         FloorLamp WhiteFloorLamp = new FloorLamp();

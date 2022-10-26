@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class PhonePractice {
+public class PhoneTest {
     @Test
     public void workingWithPhone(){
         Phone firstPhone = new Phone();

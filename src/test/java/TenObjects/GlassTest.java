@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class GlassPractice {
+public class GlassTest {
     @Test
     public void workingWithGlass(){
 

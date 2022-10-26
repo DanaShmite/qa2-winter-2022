@@ -2,7 +2,7 @@ package TenObjects;
 
 import org.junit.jupiter.api.Test;
 
-public class SofaPractice {
+public class SofaTest {
     @Test
     public void workingWithSofa(){
         Sofa firstSofa = new Sofa();
