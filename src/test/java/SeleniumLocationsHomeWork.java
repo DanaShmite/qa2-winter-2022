@@ -26,6 +26,7 @@ public class SeleniumLocationsHomeWork {
     .//div[@class = 'supplier-rating']
     .//div[@class = 'price-item-price-main']
 
+
     // Не сумела: 1. Стрелочка с первого фото
                     2. Price со второго фото
                     3. 1 bag со второго фото
