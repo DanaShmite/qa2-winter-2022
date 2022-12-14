@@ -24,3 +24,4 @@ public class CoffeeTableTest {
            System.out.println("Height: "+secondCoffeeTable.getHeight());
     }
 }
+
